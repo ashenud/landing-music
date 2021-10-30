@@ -1,4 +1,4 @@
-### Landing page design for a music related company
+### LANDING PAGE DESIGN FOR A MUSIC RELATED COMPANY
 
 #### Used technologies
 
